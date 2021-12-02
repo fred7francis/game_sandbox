@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/game_sandbox/static/css/main.e96cbf15.chunk.css",
+    "main.css": "/game_sandbox/static/css/main.4dd2cb6c.chunk.css",
     "main.js": "/game_sandbox/static/js/main.4825d1be.chunk.js",
     "main.js.map": "/game_sandbox/static/js/main.4825d1be.chunk.js.map",
     "runtime-main.js": "/game_sandbox/static/js/runtime-main.2304bd6d.js",
@@ -10,14 +10,14 @@
     "static/js/3.add50984.chunk.js": "/game_sandbox/static/js/3.add50984.chunk.js",
     "static/js/3.add50984.chunk.js.map": "/game_sandbox/static/js/3.add50984.chunk.js.map",
     "index.html": "/game_sandbox/index.html",
-    "static/css/main.e96cbf15.chunk.css.map": "/game_sandbox/static/css/main.e96cbf15.chunk.css.map",
+    "static/css/main.4dd2cb6c.chunk.css.map": "/game_sandbox/static/css/main.4dd2cb6c.chunk.css.map",
     "static/js/2.fb3c58ac.chunk.js.LICENSE.txt": "/game_sandbox/static/js/2.fb3c58ac.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/game_sandbox/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2304bd6d.js",
     "static/js/2.fb3c58ac.chunk.js",
-    "static/css/main.e96cbf15.chunk.css",
+    "static/css/main.4dd2cb6c.chunk.css",
     "static/js/main.4825d1be.chunk.js"
   ]
 }

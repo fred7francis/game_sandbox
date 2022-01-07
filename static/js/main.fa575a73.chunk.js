@@ -1,2 +1,0 @@
-(this.webpackJsonpgame_sandbox=this.webpackJsonpgame_sandbox||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var s=t(1),c=t.n(s),a=t(3),o=t.n(a),r=(t(8),t(0));var i=function(){return Object(r.jsx)("div",{className:"App"})};o.a.render(Object(r.jsx)(c.a.StrictMode,{children:Object(r.jsx)(i,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.fa575a73.chunk.js.map

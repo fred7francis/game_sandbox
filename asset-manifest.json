@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/game_sandbox/static/css/main.6a30616e.chunk.css",
-    "main.js": "/game_sandbox/static/js/main.fa575a73.chunk.js",
-    "main.js.map": "/game_sandbox/static/js/main.fa575a73.chunk.js.map",
+    "main.js": "/game_sandbox/static/js/main.a701c9ba.chunk.js",
+    "main.js.map": "/game_sandbox/static/js/main.a701c9ba.chunk.js.map",
     "runtime-main.js": "/game_sandbox/static/js/runtime-main.3e759e9e.js",
     "runtime-main.js.map": "/game_sandbox/static/js/runtime-main.3e759e9e.js.map",
-    "static/js/2.c990c4f9.chunk.js": "/game_sandbox/static/js/2.c990c4f9.chunk.js",
-    "static/js/2.c990c4f9.chunk.js.map": "/game_sandbox/static/js/2.c990c4f9.chunk.js.map",
+    "static/js/2.72f2d401.chunk.js": "/game_sandbox/static/js/2.72f2d401.chunk.js",
+    "static/js/2.72f2d401.chunk.js.map": "/game_sandbox/static/js/2.72f2d401.chunk.js.map",
     "index.html": "/game_sandbox/index.html",
     "static/css/main.6a30616e.chunk.css.map": "/game_sandbox/static/css/main.6a30616e.chunk.css.map",
-    "static/js/2.c990c4f9.chunk.js.LICENSE.txt": "/game_sandbox/static/js/2.c990c4f9.chunk.js.LICENSE.txt"
+    "static/js/2.72f2d401.chunk.js.LICENSE.txt": "/game_sandbox/static/js/2.72f2d401.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3e759e9e.js",
-    "static/js/2.c990c4f9.chunk.js",
+    "static/js/2.72f2d401.chunk.js",
     "static/css/main.6a30616e.chunk.css",
-    "static/js/main.fa575a73.chunk.js"
+    "static/js/main.a701c9ba.chunk.js"
   ]
 }
